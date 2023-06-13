@@ -7,7 +7,7 @@ HeroicBit hadir dengan satu tool bernama Puller, tool sederhana tapi sangat berm
 File buat pullnya adalah Puller.sh yang ada di dalam folder application/cli/. File ini nanti didaftarkan di cron. Contoh kode cronnya:
 
 ```
-* * * * * cd /var/www/heroicbit/application/cli && ./Puller.sh
+* * * * * cd /var/www/heroicbit/application/modules/puller && ./Puller.sh
 ```
 
 ## Cara Pakai
