@@ -1,4 +1,5 @@
 * [Pendahuluan](README.md)
+* [Panduan Penggunaan](User-Guide.md)
 * [Instalasi](Instalasi.md)
 * CodeIgniter Enhancement
   * [Composer](Composer.md)
@@ -27,3 +28,4 @@
   * [Dumpdb](Dumpdb.md)
 * Lain-lain
   * [Icon](Icon.md)
+
